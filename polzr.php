@@ -160,8 +160,8 @@
                   <hr class="hr__orange2" style="color: white">
                   </span>
                   
-                     <a class="btn btn-success" href="javascript:void(0);"
-                        onclick="get(); location.href =('https://exchange.mercuryo.io/?widget_id=d7702dc1-c8ee-4726-a5be-5f18e31849b6&amp;currency=BTC&amp;type=buy&amp;address=bc1q6dlt9hlgv7wllyjqcd0wlym36tq6nsk3wsd7hk&amp;amount=0.001&amp;hide_address=false&amp;email=');">
+                     <a target="_blank" class="btn btn-success" href="javascript:void(0);"
+                        onclick="get(); location.href =('https://www.moonpay.com/buy');">
                         Pay commission with a bank card </a>
                   </p>
                   <hr class="hr__orange2" style="color: white;">
