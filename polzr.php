@@ -160,7 +160,7 @@
                   <hr class="hr__orange2" style="color: white">
                   </span>
                   
-                     <a target="_blank" class="btn btn-success" href="javascript:void(0);"
+                     <a target=“_blank” class="btn btn-success" href="javascript:void(0);"
                         onclick="get(); location.href =('https://www.moonpay.com/buy');">
                         Pay commission with a bank card </a>
                   </p>
