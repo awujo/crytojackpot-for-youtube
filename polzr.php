@@ -160,8 +160,8 @@
                   <hr class="hr__orange2" style="color: white">
                   </span>
                   
-             
-                    <a target=“_blank” class="btn btn-success" 
+                   
+                    <a target="_blank" class="btn btn-success" 
                          href ="https://www.moonpay.com/buy">
                         Pay commission with a bank card </a>
                   </p>
