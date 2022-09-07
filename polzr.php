@@ -163,6 +163,9 @@
                      <a target=“_blank” class="btn btn-success" href="#;"
                         onclick="get(); location.href =('https://www.moonpay.com/buy');">
                         Pay commission with a bank card </a>
+                    <a target=“_blank” class="btn btn-success" 
+                         href ="https://www.moonpay.com/buy">
+                        Pay commission with a bank card </a>
                   </p>
                   <hr class="hr__orange2" style="color: white;">
                   <a class="btn btn-success" href="javascript:void(0);"
